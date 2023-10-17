@@ -1,5 +1,6 @@
 # 🖖 Yo, mi llamo Aravind Somaraj!
-[Recent activity](#recent-activity-zap)
+**[Recent activity](#recent-activity-zap)**
+
 Just a very ardent CS bloke traversing through a tethered web of technological concepts. I like getting my hands dirty with Deep Learning stuff. I also dabble in web and app dev with a keen interest for contributing to open-source projects.
 
 ## 🔭 What I'm Currently Up To
@@ -12,18 +13,6 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 - 🤝 Anything mildly interesting that won't bore me into sleep in the first 10 seconds.
 - 🌍 Curioser and curioser initiatives that has potential for a significant impact.
-- sd
-- s
-- sd
-- sd
-- sd
-- sd
-- s
-- ds
-- ds
-- d
-- sd
-- sd
 
 ## 📫 Socials 
 <p align="left">
