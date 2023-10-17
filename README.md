@@ -13,4 +13,4 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 - 🤝 Anything mildly interesting that won't bore me into sleep in the first 10 seconds.
 - 🌍 Curioser and curioser initiatives that has potential for a significant impact.
 
-[![insta](https://github.com/aravindsomaraj/aravindsomaraj/assets/104314434/26bce364-9e52-47bc-ab77-a1a3b099c087)](instagram.com/aravindsomaraj/) [![linkedin](https://in.linkedin.com/in/aravind-somaraj-b14865250)](https://in.linkedin.com/in/aravind-somaraj-b14865250)
+[<i class="fa-brands fa-instagram"></i>](instagram.com/aravindsomaraj/) [![linkedin](https://in.linkedin.com/in/aravind-somaraj-b14865250)](https://in.linkedin.com/in/aravind-somaraj-b14865250)
