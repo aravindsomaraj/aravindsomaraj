@@ -1,5 +1,5 @@
 # 🖖 Yo, mi llamo Aravind Somaraj!
-
+[Recent activity](#recent-activity-zap)
 Just a very ardent CS bloke traversing through a tethered web of technological concepts. I like getting my hands dirty with Deep Learning stuff. I also dabble in web and app dev with a keen interest for contributing to open-source projects.
 
 ## 🔭 What I'm Currently Up To
@@ -12,6 +12,18 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 - 🤝 Anything mildly interesting that won't bore me into sleep in the first 10 seconds.
 - 🌍 Curioser and curioser initiatives that has potential for a significant impact.
+- sd
+- s
+- sd
+- sd
+- sd
+- sd
+- s
+- ds
+- ds
+- d
+- sd
+- sd
 
 ## 📫 Socials 
 <p align="left">
@@ -20,6 +32,9 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 <a href="https://www.leetcode.com/buuu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buuu29" height="30" width="30" /></a>
 </p>
 
+## Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!-- <h3 align="left">Languages:</h3> -->
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
