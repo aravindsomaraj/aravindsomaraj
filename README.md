@@ -23,12 +23,8 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Obstinatemensch/gym_NLP_chatbot/issues/1) in [Obstinatemensch/gym_NLP_chatbot](https://github.com/Obstinatemensch/gym_NLP_chatbot)
-2. 💪 Opened PR [#98](https://github.com/Shahrayar123/Python-Projects/pull/98) in [Shahrayar123/Python-Projects](https://github.com/Shahrayar123/Python-Projects)
-3. 💪 Opened PR [#2518](https://github.com/TheAlgorithms/C-Plus-Plus/pull/2518) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-4. 🗣 Commented on [#13348](https://github.com/lichess-org/lila/pull/13348#issuecomment-1660419745) in [lichess-org/lila](https://github.com/lichess-org/lila)
-5. 🗣 Commented on [#13347](https://github.com/lichess-org/lila/issues/13347#issuecomment-1660403143) in [lichess-org/lila](https://github.com/lichess-org/lila)
-6. 💪 Opened PR [#70891](https://github.com/firstcontributions/first-contributions/pull/70891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 💪 Opened PR [#98](https://github.com/Shahrayar123/Python-Projects/pull/98) in [Shahrayar123/Python-Projects](https://github.com/Shahrayar123/Python-Projects)
+2. 💪 Opened PR [#2518](https://github.com/TheAlgorithms/C-Plus-Plus/pull/2518) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 <!--END_SECTION:activity-->
 <!-- <h3 align="left">Languages:</h3> -->
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
