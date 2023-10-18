@@ -16,7 +16,7 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 ## 📫 Socials 
 <p align="left">
-<a href="aravindsomaraj101@gmail.com" target="blank"><img align="center" src="icon/icons8-gmail-48.png" alt="buuu29" height="30" width="30" /></a>
+<a href="mailto:aravindsomaraj101@gmail.com" target="blank"><img align="center" src="icon/icons8-gmail-48.png" alt="buuu29" height="30" width="30" /></a>
 <a href="https://in.linkedin.com/in/aravind-somaraj-b14865250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-myself-and-i" height="20" width="30" /></a>
 <a href="https://instagram.com/aravindsomaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="again-me" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/buuu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buuu29" height="30" width="30" /></a>
