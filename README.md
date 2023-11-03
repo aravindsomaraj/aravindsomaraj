@@ -1,17 +1,16 @@
-# 🖖 Yo, mi llamo Aravind Somaraj!
-**[Recent activity](#recent-activity-zap)**
+# Hi 🖖✌️
 
 Just a very ardent CS bloke traversing through a tethered web of technological concepts. I like getting my hands dirty with Deep Learning stuff. I also dabble in web and app dev with a keen interest for contributing to open-source projects.
 
 ## 🔭 What I'm Currently Up To
-
+**[Recent activity](#recent-activity-zap)**  
 - 🤖 Delving deep into cutting-edge machine learning and AI projects.
 - 🚀 Actively contributing to open source to make technology accessible for all.
 - 🎹 Trying to learn Liszt's La Campanella, but in everlasting vain.
   
 ## 💡 I'm Eager to Collaborate On
 
-- 🤝 Anything mildly interesting that won't bore me into sleep in the first 10 seconds.
+- 🤝 Interesting ideas that tingles my tingle.
 - 🌍 Curioser and curioser initiatives that has potential for a significant impact.
 
 ## 📫 Socials 
