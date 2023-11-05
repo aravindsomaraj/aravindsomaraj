@@ -23,9 +23,9 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aravindsomaraj/Analyzer/pull/1) in [aravindsomaraj/Analyzer](https://github.com/aravindsomaraj/Analyzer)
-2. 💪 Opened PR [#1](https://github.com/aravindsomaraj/Analyzer/pull/1) in [aravindsomaraj/Analyzer](https://github.com/aravindsomaraj/Analyzer)
-3. ❌ Closed PR [#2](https://github.com/Mak1226/Analyzer/pull/2) in [Mak1226/Analyzer](https://github.com/Mak1226/Analyzer)
+1. 💪 Opened PR [#2](https://github.com/saarangs2002/Analyzer/pull/2) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)
+2. 🎉 Merged PR [#1](https://github.com/saarangs2002/Analyzer/pull/1) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)
+3. 💪 Opened PR [#1](https://github.com/saarangs2002/Analyzer/pull/1) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)
 <!--END_SECTION:activity-->
 <!-- <h3 align="left">Languages:</h3> -->
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
