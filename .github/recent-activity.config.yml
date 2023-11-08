@@ -2,3 +2,5 @@ settings:
   max_lines: 5
   readme_file: "./recentActivity.md"
   ignored_repos:
+    -  aravindsomaraj/aravindsomaraj
+              
