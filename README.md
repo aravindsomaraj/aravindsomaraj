@@ -1,9 +1,7 @@
-# Hi 🖖✌️
-
 Just a very ardent CS bloke traversing through a tethered web of technological concepts. I like getting my hands dirty with Deep Learning stuff. I also dabble in web and app dev with a keen interest for contributing to open-source projects.
 
 ## 🔭 What I'm Currently Up To
-**[Recent activity](#recent-activity-zap)**  
+**[Recent activity](./recentActivity.md)**  
 - 🤖 Delving deep into cutting-edge machine learning and AI projects.
 - 🚀 Actively contributing to open source to make technology accessible for all.
 - 🎹 Trying to learn Liszt's La Campanella, but in everlasting vain.
@@ -21,11 +19,6 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 <a href="https://www.leetcode.com/buuu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buuu29" height="30" width="30" /></a>
 </p>
 
-## Recent Activity :zap:
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#8952](https://github.com/microsoft/WSL/issues/8952#issuecomment-1795904079) in [microsoft/WSL](https://github.com/microsoft/WSL)
-2. ❌ Closed PR [#2](https://github.com/saarangs2002/Analyzer/pull/2) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)
-3. 💪 Opened PR [#5](https://github.com/saarangs2002/Analyzer/pull/5) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)
 <!--END_SECTION:activity-->
 <!-- <h3 align="left">Languages:</h3> -->
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
