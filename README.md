@@ -2,6 +2,7 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 ## 🔭 What I'm Currently Up To
 **[Recent activity](./recentActivity.md)**  
+<img align="right" alt="anime" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif">
 - 🤖 Delving deep into cutting-edge machine learning and AI projects.
 - 🚀 Actively contributing to open source to make technology accessible for all.
 - 🎹 Trying to learn Liszt's La Campanella, but in everlasting vain.
