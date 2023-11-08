@@ -1,7 +1,7 @@
 Just a very ardent CS bloke traversing through a tethered web of technological concepts. I like getting my hands dirty with Deep Learning stuff. I also dabble in web and app dev with a keen interest for contributing to open-source projects.
 
 ## 🔭 What I'm Currently Up To
-<img align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif">  
+<a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank"><img align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif"></a>  
 
 **[Recent activity](./recentActivity.md)**  
 
