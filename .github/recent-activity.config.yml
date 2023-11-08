@@ -3,4 +3,6 @@ settings:
   readme_file: "./recentActivity.md"
   ignored_repos:
     -  aravindsomaraj/
+  disabled_events:
+    - "push"
               
