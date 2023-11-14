@@ -3,7 +3,7 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 ## 🔭 What I'm Currently Up To
 <a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank"><img align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif"></a>  
 
-**[Recent activity](./recentActivity.md)**  
+<!--**[Recent activity](./recentActivity.md)**  -->
 
 - 🤖 Delving deep into cutting-edge machine learning and AI projects.
 - 🚀 Actively contributing to open source to make technology accessible for all.
