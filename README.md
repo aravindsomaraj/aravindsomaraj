@@ -16,10 +16,10 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 
 ## 📫 Socials 
 <p align="left">
-<a href="mailto:aravindsomaraj101@gmail.com" target="blank"><img align="center" src="icon/icons8-gmail-48.png" alt="buuu29" height="30" width="30" /></a>
-<a href="https://in.linkedin.com/in/aravind-somaraj-b14865250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-myself-and-i" height="20" width="30" /></a>
-<a href="https://instagram.com/aravindsomaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="again-me" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/buuu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buuu29" height="30" width="30" /></a>
+<a href="mailto:aravindsomaraj101@gmail.com" target="blank"><img align="center" src="icon/icons8-gmail-48.png" alt="gmail" height="30" width="30" /></a>
+<a href="https://in.linkedin.com/in/aravind-somaraj-b14865250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="30" /></a>
+<a href="https://instagram.com/aravindsomaraj/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/buuu29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="30" /></a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)
