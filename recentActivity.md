@@ -1,11 +1,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#98](https://github.com/Shahrayar123/Python-Projects/pull/98) in [Shahrayar123/Python-Projects](https://github.com/Shahrayar123/Python-Projects)<br>
-2. ⭐ Starred [aravindsomaraj/aiproject-pacman](https://github.com/aravindsomaraj/aiproject-pacman)<br>
-3. 💬 Commented on [#8952](https://github.com/microsoft/WSL/issues/8952#issuecomment-1795904079) in [microsoft/WSL](https://github.com/microsoft/WSL)<br>
-4. ❌ Closed PR [#2](https://github.com/saarangs2002/Analyzer/pull/2) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-5. 💪 Opened PR [#5](https://github.com/saarangs2002/Analyzer/pull/5) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+1. ❌ Closed PR [#8](https://github.com/saarangs2002/Analyzer/pull/8) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+2. 💪 Opened PR [#8](https://github.com/saarangs2002/Analyzer/pull/8) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+3. ❌ Closed PR [#5](https://github.com/saarangs2002/Analyzer/pull/5) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+4. ❌ Closed PR [#98](https://github.com/Shahrayar123/Python-Projects/pull/98) in [Shahrayar123/Python-Projects](https://github.com/Shahrayar123/Python-Projects)<br>
+5. ⭐ Starred [aravindsomaraj/aiproject-pacman](https://github.com/aravindsomaraj/aiproject-pacman)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
