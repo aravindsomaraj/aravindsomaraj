@@ -1,16 +1,16 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](https://github.com/saarangs2002/Analyzer/pull/27) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-2. 💪 Opened PR [#26](https://github.com/saarangs2002/Analyzer/pull/26) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-3. 💬 Commented on [#15](https://github.com/saarangs2002/Analyzer/issues/15#issuecomment-1822756285) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-4. ⭐ Starred [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-5. ⭐ Starred [Mak1226/Analyzer](https://github.com/Mak1226/Analyzer)<br>
-6. 💪 Opened PR [#12](https://github.com/saarangs2002/Analyzer/pull/12) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-7. 💬 Commented on [#34](https://github.com/Mak1226/Analyzer/pull/34#issuecomment-1821730910) in [Mak1226/Analyzer](https://github.com/Mak1226/Analyzer)<br>
-8. 💪 Opened PR [#10](https://github.com/saarangs2002/Analyzer/pull/10) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-9. ✔️ Closed issue [#3](https://github.com/saarangs2002/Analyzer/issues/3) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-10. ❌ Closed PR [#8](https://github.com/saarangs2002/Analyzer/pull/8) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+1. 🎉 Merged PR [#34](https://github.com/saarangs2002/Analyzer/pull/34) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+2. 💪 Opened PR [#36](https://github.com/saarangs2002/Analyzer/pull/36) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+3. 💪 Opened PR [#34](https://github.com/saarangs2002/Analyzer/pull/34) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+4. 💬 Commented on [#20](https://github.com/saarangs2002/Analyzer/issues/20#issuecomment-1824536096) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+5. ✔️ Closed issue [#20](https://github.com/saarangs2002/Analyzer/issues/20) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+6. 💬 Commented on [#21](https://github.com/saarangs2002/Analyzer/issues/21#issuecomment-1824535336) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+7. ✔️ Closed issue [#21](https://github.com/saarangs2002/Analyzer/issues/21) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+8. ❌ Closed PR [#32](https://github.com/saarangs2002/Analyzer/pull/32) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+9. 💬 Commented on [#20](https://github.com/saarangs2002/Analyzer/issues/20#issuecomment-1824375061) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
+10. 💬 Commented on [#32](https://github.com/saarangs2002/Analyzer/pull/32#issuecomment-1824259936) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
