@@ -2,15 +2,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [aravindsomaraj/Computational-Methods-and-Applications](https://github.com/aravindsomaraj/Computational-Methods-and-Applications)<br>
-2. 💬 Commented on [#23](https://github.com/saarangs2002/Analyzer/issues/23#issuecomment-1853356272) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-3. ✔️ Closed issue [#23](https://github.com/saarangs2002/Analyzer/issues/23) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-4. 💬 Commented on [#15](https://github.com/saarangs2002/Analyzer/issues/15#issuecomment-1853356001) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-5. ✔️ Closed issue [#15](https://github.com/saarangs2002/Analyzer/issues/15) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-6. 💬 Commented on [#30](https://github.com/saarangs2002/Analyzer/issues/30#issuecomment-1853355640) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-7. ✔️ Closed issue [#30](https://github.com/saarangs2002/Analyzer/issues/30) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-8. 💬 Commented on [#38](https://github.com/saarangs2002/Analyzer/issues/38#issuecomment-1853355270) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-9. ✔️ Closed issue [#38](https://github.com/saarangs2002/Analyzer/issues/38) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
-10. 💬 Commented on [#19](https://github.com/saarangs2002/Analyzer/issues/19#issuecomment-1853355034) in [saarangs2002/Analyzer](https://github.com/saarangs2002/Analyzer)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
