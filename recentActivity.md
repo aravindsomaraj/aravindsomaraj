@@ -1,7 +1,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [aravindsomaraj/Computational-Methods-and-Applications](https://github.com/aravindsomaraj/Computational-Methods-and-Applications)<br>
+1. ❗️ Opened issue [#57](https://github.com/joshcai/leetcode-sync/issues/57) in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)<br>
+2. 🤝 Became collaborator on [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
+3. 📔 Created new repository [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
+4. 📔 Created new repository [aravindsomaraj/Computational-Methods-and-Applications](https://github.com/aravindsomaraj/Computational-Methods-and-Applications)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
