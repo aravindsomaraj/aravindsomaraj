@@ -3,7 +3,7 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 ## [🔭](./recentActivity.md) What I'm Currently Up To
 
 
-<picture><a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank"><img media="(prefers-color-scheme: dark)" align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif"></a></picture>
+<picture><a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank"><img align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif"></a></picture>
 
 <!--**[Recent activity](./recentActivity.md)**  -->
 
