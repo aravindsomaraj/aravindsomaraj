@@ -3,8 +3,15 @@ Just a very ardent CS bloke traversing through a tethered web of technological c
 ## [🔭](./recentActivity.md) What I'm Currently Up To
 
 
-<a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank"><img align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif"></a>
+<a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/152/15266.gif">
+    <img align="right" alt="kiminonawa" src="" style="max-width: 50%; width: 400px;">
+  </picture>
+</a>
 
+<!-- <a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=66f641af7be144a0" target="_blank"><img align="right" alt="kiminonawa" width="400" src="https://media.tenor.com/2uvmFjbt-FAAAAAd/yourname.gif"></a> -->
 <!--**[Recent activity](./recentActivity.md)**  -->
 
 - 🤖 Delving deep into cutting-edge machine learning and AI projects.
