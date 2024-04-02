@@ -1,10 +1,12 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#57](https://github.com/joshcai/leetcode-sync/issues/57) in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)<br>
-2. 🤝 Became collaborator on [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
-3. 📔 Created new repository [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
-4. 📔 Created new repository [aravindsomaraj/Computational-Methods-and-Applications](https://github.com/aravindsomaraj/Computational-Methods-and-Applications)<br>
+1. 💪 Opened PR [#503](https://github.com/OpenDevin/OpenDevin/pull/503) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+2. 🔱 Forked [aravindsomaraj/OpenDevin](https://github.com/aravindsomaraj/OpenDevin) from [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+3. ❗️ Opened issue [#57](https://github.com/joshcai/leetcode-sync/issues/57) in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)<br>
+4. 🤝 Became collaborator on [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
+5. 📔 Created new repository [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
+6. 📔 Created new repository [aravindsomaraj/Computational-Methods-and-Applications](https://github.com/aravindsomaraj/Computational-Methods-and-Applications)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
