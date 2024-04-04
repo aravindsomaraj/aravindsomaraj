@@ -1,16 +1,16 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [aravindsomaraj/blhh](https://github.com/aravindsomaraj/blhh)<br>
-2. ⭐ Starred [Sreelaxme/Functional-Programming](https://github.com/Sreelaxme/Functional-Programming)<br>
-3. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547448347) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-4. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547436664) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-5. 💪 Opened PR [#503](https://github.com/OpenDevin/OpenDevin/pull/503) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-6. 🔱 Forked [aravindsomaraj/OpenDevin](https://github.com/aravindsomaraj/OpenDevin) from [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-7. ❗️ Opened issue [#57](https://github.com/joshcai/leetcode-sync/issues/57) in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)<br>
-8. 🤝 Became collaborator on [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
-9. 📔 Created new repository [aravindsomaraj/Project-W](https://github.com/aravindsomaraj/Project-W)<br>
-10. 📔 Created new repository [aravindsomaraj/Computational-Methods-and-Applications](https://github.com/aravindsomaraj/Computational-Methods-and-Applications)<br>
+1. 💬 Commented on [#2](https://github.com/nanduajith2000/hello-world/issues/2#issuecomment-2035195052) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
+2. ✔️ Closed issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
+3. ❗️ Opened issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
+4. 📔 Created new repository [aravindsomaraj/blhh](https://github.com/aravindsomaraj/blhh)<br>
+5. ⭐ Starred [Sreelaxme/Functional-Programming](https://github.com/Sreelaxme/Functional-Programming)<br>
+6. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547448347) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+7. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547436664) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+8. 💪 Opened PR [#503](https://github.com/OpenDevin/OpenDevin/pull/503) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+9. 🔱 Forked [aravindsomaraj/OpenDevin](https://github.com/aravindsomaraj/OpenDevin) from [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+10. ❗️ Opened issue [#57](https://github.com/joshcai/leetcode-sync/issues/57) in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
