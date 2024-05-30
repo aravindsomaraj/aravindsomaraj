@@ -1,16 +1,16 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/saarangs2002/btp_report_code/issues/1) in [saarangs2002/btp_report_code](https://github.com/saarangs2002/btp_report_code)<br>
-2. 💬 Commented on [#2](https://github.com/nanduajith2000/hello-world/issues/2#issuecomment-2035195052) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
-3. ✔️ Closed issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
-4. ❗️ Opened issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
-5. 📔 Created new repository [aravindsomaraj/blhh](https://github.com/aravindsomaraj/blhh)<br>
-6. ⭐ Starred [Sreelaxme/Functional-Programming](https://github.com/Sreelaxme/Functional-Programming)<br>
-7. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547448347) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-8. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547436664) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-9. 💪 Opened PR [#503](https://github.com/OpenDevin/OpenDevin/pull/503) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-10. 🔱 Forked [aravindsomaraj/OpenDevin](https://github.com/aravindsomaraj/OpenDevin) from [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+1. ❗️ Opened issue [#2](https://github.com/saarangs2002/btp_report_code/issues/2) in [saarangs2002/btp_report_code](https://github.com/saarangs2002/btp_report_code)<br>
+2. ❗️ Opened issue [#1](https://github.com/saarangs2002/btp_report_code/issues/1) in [saarangs2002/btp_report_code](https://github.com/saarangs2002/btp_report_code)<br>
+3. 💬 Commented on [#2](https://github.com/nanduajith2000/hello-world/issues/2#issuecomment-2035195052) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
+4. ✔️ Closed issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
+5. ❗️ Opened issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
+6. 📔 Created new repository [aravindsomaraj/blhh](https://github.com/aravindsomaraj/blhh)<br>
+7. ⭐ Starred [Sreelaxme/Functional-Programming](https://github.com/Sreelaxme/Functional-Programming)<br>
+8. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547448347) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+9. 💬 Commented on [#503](https://github.com/OpenDevin/OpenDevin/pull/503#discussion_r1547436664) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+10. 💪 Opened PR [#503](https://github.com/OpenDevin/OpenDevin/pull/503) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
