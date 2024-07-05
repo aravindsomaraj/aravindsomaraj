@@ -3,8 +3,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#2](https://github.com/saarangs2002/btp_report_code/issues/2) in [saarangs2002/btp_report_code](https://github.com/saarangs2002/btp_report_code)<br>
 2. ❗️ Opened issue [#1](https://github.com/saarangs2002/btp_report_code/issues/1) in [saarangs2002/btp_report_code](https://github.com/saarangs2002/btp_report_code)<br>
-3. 💬 Commented on [#2](https://github.com/nanduajith2000/hello-world/issues/2#issuecomment-2035195052) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
-4. ✔️ Closed issue [#2](https://github.com/nanduajith2000/hello-world/issues/2) in [nanduajith2000/hello-world](https://github.com/nanduajith2000/hello-world)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsomaraj&show_icons=true&layout=compact&hide=html,makefile,assembly,yacc,css&title_color=ffffff&text_color=daf7dc&bg_color=60,d9ff00,ff00cc,333399&border_color=ff00cc&border_radius=20&card)](https://github.com/aravindsomaraj/github-readme-stats)
